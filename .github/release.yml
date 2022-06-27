@@ -1,0 +1,11 @@
+changelog:
+  exclude:
+    labels:
+      - ignore
+  categories:
+    - title: Bug
+      labels:
+        - bug
+    - title: Others 
+      labels:
+        - "*"
