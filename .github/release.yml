@@ -1,11 +1,11 @@
 changelog:
   exclude:
     labels:
-      - Ignore
+      - ignore
   categories:
     - title: Bug
       labels:
-        - Bug
+        - bug
     - title: Others 
       labels:
         - "*"
